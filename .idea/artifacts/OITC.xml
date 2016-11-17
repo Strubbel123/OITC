@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="OITC">
+    <output-path>$USER_HOME$/Desktop/Minecraft/Testbukkit/plugins</output-path>
+    <root id="root">
+      <element id="archive" name="OITC.jar">
+        <element id="module-output" name="OITC" />
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/src/me/strubbel/oitc/META-INF/MANIFEST.MF" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

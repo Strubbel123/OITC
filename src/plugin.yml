@@ -1,0 +1,7 @@
+name: OITC
+version: 1.0
+author: Strubbel123
+main: me.strubbel.oitc.OitcCore
+commands:
+  oitc:
+    usage: /oitc help
